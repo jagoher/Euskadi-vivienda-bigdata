@@ -337,3 +337,4 @@ Entre los 159 municipios con datos suficientes para calcular el esfuerzo de alqu
 - Los diagramas arquitectónicos y documentales son ilustrativos; el esquema y los recuentos reales de MongoDB se verifican mediante los scripts y registros.
 - La fase MongoDB se ha probado con colecciones TEST ya pobladas; no equivale a una prueba de carga inicial desde una base vacía.
 
+https://github.com/jagoher/Euskadi-vivienda-bigdata
