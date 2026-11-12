@@ -337,6 +337,3 @@ Entre los 159 municipios con datos suficientes para calcular el esfuerzo de alqu
 - Los diagramas arquitectónicos y documentales son ilustrativos; el esquema y los recuentos reales de MongoDB se verifican mediante los scripts y registros.
 - La fase MongoDB se ha probado con colecciones TEST ya pobladas; no equivale a una prueba de carga inicial desde una base vacía.
 
-### Estado de la entrega
-
-El procesamiento, las consultas y gráficos, la fase MongoDB TEST y las pruebas descritas están verificados. Antes de entregar, conviene revisar que los registros y vídeos que se citen estén realmente incluidos, que las imágenes correspondan a las versiones finales y que las evidencias de índices/agregaciones se aporten cuando lo exija la rúbrica.
