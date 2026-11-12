@@ -1,0 +1,232 @@
+Conexión correcta con MongoDB.
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+
+=======================================================
+COLECCION: municipios
+=======================================================
+Total documentos: 252
+
+CAMPOS Y COBERTURA:
+  _id: 252/252 (100.0%)
+  indicadores: 252/252 (100.0%)
+  indicadores.anos_salario_compra_ine: 252/252 (100.0%)
+  indicadores.anos_salario_compra_registradores: 252/252 (100.0%)
+  indicadores.anyo_alquiler_referencia: 252/252 (100.0%)
+  indicadores.anyo_compra_referencia: 252/252 (100.0%)
+  indicadores.anyo_salario_referencia: 252/252 (100.0%)
+  indicadores.esfuerzo_alquiler_pct: 252/252 (100.0%)
+  indicadores.eustat_alquiler_medio_2024: 252/252 (100.0%)
+  indicadores.ine_precio_medio_2025: 252/252 (100.0%)
+  indicadores.registradores_precio_medio_2025: 252/252 (100.0%)
+  indicadores.salario_neto_mensual: 252/252 (100.0%)
+  indicadores.supera_30_pct: 252/252 (100.0%)
+  indicadores.tiene_alquiler: 252/252 (100.0%)
+  indicadores.tiene_compra: 252/252 (100.0%)
+  nombre: 252/252 (100.0%)
+  provincia: 252/252 (100.0%)
+  territorio_id: 252/252 (100.0%)
+  vivienda: 252/252 (100.0%)
+  vivienda.alquiler_mediana: 252/252 (100.0%)
+  vivienda.alquiler_p25: 252/252 (100.0%)
+  vivienda.alquiler_p75: 252/252 (100.0%)
+  vivienda.emal_alquiler_medio_2025: 252/252 (100.0%)
+  vivienda.emal_fecha_referencia: 252/252 (100.0%)
+  vivienda.eustat_alquiler_medio_2024: 252/252 (100.0%)
+  vivienda.ine_precio_m2_2025: 252/252 (100.0%)
+  vivienda.ine_precio_medio_2025: 252/252 (100.0%)
+  vivienda.municipio_eustat: 252/252 (100.0%)
+  vivienda.registradores_precio_m2_2025: 252/252 (100.0%)
+  vivienda.registradores_precio_medio_2025: 252/252 (100.0%)
+  vivienda.renta_m2_media: 252/252 (100.0%)
+  vivienda.renta_m2_mediana: 252/252 (100.0%)
+  vivienda.renta_m2_p25: 252/252 (100.0%)
+  vivienda.renta_m2_p75: 252/252 (100.0%)
+  vivienda.superficie_media: 252/252 (100.0%)
+  vivienda.superficie_mediana: 252/252 (100.0%)
+  vivienda.superficie_p25: 252/252 (100.0%)
+  vivienda.superficie_p75: 252/252 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  indicadores: dict
+  nombre: str
+  provincia: str
+  territorio_id: str
+  vivienda: dict
+
+ANOS DETECTADOS:
+[2024, 2025]
+
+REFERENCIAS TERRITORIALES (muestra):
+  provincia: Araba/Álava
+  provincia: Bizkaia
+  provincia: Gipuzkoa
+  territorio_id: 01
+  territorio_id: 20
+  territorio_id: 48
+
+=======================================================
+COLECCION: anuncios
+=======================================================
+Total documentos: 2952
+
+CAMPOS Y COBERTURA:
+  _id: 2952/2952 (100.0%)
+  archivo_origen: 2952/2952 (100.0%)
+  calidad: 2952/2952 (100.0%)
+  calidad.grupo_duplicado: 2952/2952 (100.0%)
+  calidad.posible_duplicado: 2952/2952 (100.0%)
+  calidad.posible_duplicado_ampliado: 2952/2952 (100.0%)
+  calidad.precio_no_valido: 2952/2952 (100.0%)
+  calidad.revision_tipo_inmueble: 2952/2952 (100.0%)
+  calidad.superficie_desconocida: 2952/2952 (100.0%)
+  calidad.superficie_no_valida: 2952/2952 (100.0%)
+  caracteristicas: 2952/2952 (100.0%)
+  caracteristicas.banos: 2952/2952 (100.0%)
+  caracteristicas.habitaciones: 2952/2952 (100.0%)
+  caracteristicas.m2: 2952/2952 (100.0%)
+  descripcion: 2952/2952 (100.0%)
+  fuente: 2952/2952 (100.0%)
+  id_portal: 2952/2952 (100.0%)
+  limpieza: 2952/2952 (100.0%)
+  limpieza.descripcion_disponible: 2952/2952 (100.0%)
+  limpieza.grupo_revision: 2952/2952 (100.0%)
+  limpieza.municipio_id_normalizado: 2952/2952 (100.0%)
+  limpieza.municipio_normalizado: 2952/2952 (100.0%)
+  limpieza.precio_m2: 2952/2952 (100.0%)
+  limpieza.revisar_duplicado: 2952/2952 (100.0%)
+  limpieza.superficie_disponible: 2952/2952 (100.0%)
+  limpieza.zona_normalizada: 2952/2952 (100.0%)
+  municipio: 2952/2952 (100.0%)
+  municipio_id: 2952/2952 (100.0%)
+  municipio_original: 2952/2952 (100.0%)
+  operacion: 2952/2952 (100.0%)
+  precio: 2952/2952 (100.0%)
+  ubicacion: 2952/2952 (100.0%)
+  ubicacion.coordinates: 2952/2952 (100.0%)
+  ubicacion.type: 2952/2952 (100.0%)
+  zona: 2952/2952 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  archivo_origen: str
+  calidad: dict
+  caracteristicas: dict
+  descripcion: NoneType, str
+  fuente: str
+  id_portal: str
+  limpieza: dict
+  municipio: str
+  municipio_id: str
+  municipio_original: str
+  operacion: str
+  precio: int
+  ubicacion: dict
+  zona: NoneType, str
+
+ANOS DETECTADOS:
+Sin anos detectados
+
+REFERENCIAS TERRITORIALES (muestra):
+  municipio_id: 01059
+  municipio_id: 20045
+  municipio_id: 20067
+  municipio_id: 20069
+  municipio_id: 48013
+  municipio_id: 48015
+  municipio_id: 48020
+  municipio_id: 48027
+  municipio_id: 48044
+  municipio_id: 48054
+  municipio_id: 48078
+  municipio_id: 48082
+
+=======================================================
+COLECCION: mercado_alquiler
+=======================================================
+Total documentos: 3
+
+CAMPOS Y COBERTURA:
+  _id: 3/3 (100.0%)
+  fuente: 3/3 (100.0%)
+  nombre: 3/3 (100.0%)
+  serie: 3/3 (100.0%)
+  serie.anyo: 3/3 (100.0%)
+  serie.oferta: 3/3 (100.0%)
+  serie.precio: 3/3 (100.0%)
+  serie.presion: 3/3 (100.0%)
+  serie.trimestre: 3/3 (100.0%)
+  territorio_id: 3/3 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  fuente: str
+  nombre: str
+  serie: list
+  territorio_id: str
+
+ANOS DETECTADOS:
+[2024, 2025, 2026]
+
+REFERENCIAS TERRITORIALES (muestra):
+  territorio_id: 01
+  territorio_id: 20
+  territorio_id: 48
+
+=======================================================
+COLECCION: salarios
+=======================================================
+Total documentos: 120
+
+CAMPOS Y COBERTURA:
+  _id: 120/120 (100.0%)
+  anyo: 120/120 (100.0%)
+  categoria: 120/120 (100.0%)
+  dimension: 120/120 (100.0%)
+  salario_neto_mensual: 120/120 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  anyo: int
+  categoria: str
+  dimension: str
+  salario_neto_mensual: float
+
+ANOS DETECTADOS:
+[2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+REFERENCIAS TERRITORIALES (muestra):
+
+=======================================================
+COLECCION: economia_juvenil
+=======================================================
+Total documentos: 148
+
+CAMPOS Y COBERTURA:
+  _id: 148/148 (100.0%)
+  anyo: 148/148 (100.0%)
+  categoria: 148/148 (100.0%)
+  indicador: 148/148 (100.0%)
+  unidad: 148/148 (100.0%)
+  valor: 148/148 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  anyo: int
+  categoria: str
+  indicador: str
+  unidad: str
+  valor: float
+
+ANOS DETECTADOS:
+[2000, 2001, 2003, 2004, 2006, 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026]
+
+REFERENCIAS TERRITORIALES (muestra):
+
+=== RELACION ANUNCIOS - MUNICIPIOS ===
+Total anuncios: 2952
+Referencias validas: 2952
+Sin municipio_id: 0
+Referencias inexistentes: 0
+Conexión cerrada.

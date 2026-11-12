@@ -1,0 +1,256 @@
+[
+  {
+    "fuente": "alquiler_euskadi_provincias",
+    "provincias": [
+      {
+        "territorio_id": "20",
+        "nombre": "Gipuzkoa",
+        "serie": [
+          {
+            "anyo": 2024,
+            "trimestre": 1,
+            "presion": 50.4,
+            "oferta": 4424,
+            "precio": 1406.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 2,
+            "presion": 84.0,
+            "oferta": 4380,
+            "precio": 1421.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 3,
+            "presion": 90.0,
+            "oferta": 4040,
+            "precio": 1429.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 4,
+            "presion": 95.0,
+            "oferta": 4069,
+            "precio": null
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 1,
+            "presion": 87.0,
+            "oferta": 3286,
+            "precio": 1465.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 2,
+            "presion": 96.0,
+            "oferta": 3302,
+            "precio": 1483.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 3,
+            "presion": 102.0,
+            "oferta": 3111,
+            "precio": 1480.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 4,
+            "presion": 97.0,
+            "oferta": 3121,
+            "precio": null
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 1,
+            "presion": 155.0,
+            "oferta": 2669,
+            "precio": 1494.0
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 2,
+            "presion": 153.0,
+            "oferta": 2424,
+            "precio": 1485.0
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 3,
+            "presion": 142.0,
+            "oferta": 2281,
+            "precio": 1481.0
+          }
+        ]
+      },
+      {
+        "territorio_id": "48",
+        "nombre": "Bizkaia",
+        "serie": [
+          {
+            "anyo": 2024,
+            "trimestre": 1,
+            "presion": 60.5,
+            "oferta": 6084,
+            "precio": 1203.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 2,
+            "presion": 168.0,
+            "oferta": 6538,
+            "precio": 1224.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 3,
+            "presion": 172.0,
+            "oferta": 6042,
+            "precio": 1230.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 4,
+            "presion": 191.0,
+            "oferta": 6260,
+            "precio": null
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 1,
+            "presion": 113.0,
+            "oferta": 5455,
+            "precio": 1289.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 2,
+            "presion": 123.0,
+            "oferta": 5514,
+            "precio": 1308.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 3,
+            "presion": 128.0,
+            "oferta": 5180,
+            "precio": 1312.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 4,
+            "presion": null,
+            "oferta": 4672,
+            "precio": null
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 1,
+            "presion": 191.0,
+            "oferta": 4239,
+            "precio": 1311.0
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 2,
+            "presion": 196.0,
+            "oferta": 4065,
+            "precio": 1305.0
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 3,
+            "presion": 179.0,
+            "oferta": 4039,
+            "precio": 1308.0
+          }
+        ]
+      },
+      {
+        "territorio_id": "01",
+        "nombre": "Araba/Álava",
+        "serie": [
+          {
+            "anyo": 2024,
+            "trimestre": 1,
+            "presion": 34.5,
+            "oferta": 1096,
+            "precio": 961.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 2,
+            "presion": 76.0,
+            "oferta": 1108,
+            "precio": 980.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 3,
+            "presion": 123.0,
+            "oferta": 1034,
+            "precio": 991.0
+          },
+          {
+            "anyo": 2024,
+            "trimestre": 4,
+            "presion": 111.0,
+            "oferta": 998,
+            "precio": null
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 1,
+            "presion": 75.0,
+            "oferta": 945,
+            "precio": 1030.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 2,
+            "presion": 111.0,
+            "oferta": 994,
+            "precio": 1041.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 3,
+            "presion": 89.0,
+            "oferta": 949,
+            "precio": 1040.0
+          },
+          {
+            "anyo": 2025,
+            "trimestre": 4,
+            "presion": 82.0,
+            "oferta": 912,
+            "precio": null
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 1,
+            "presion": 122.0,
+            "oferta": 832,
+            "precio": 1041.0
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 2,
+            "presion": 144.0,
+            "oferta": 809,
+            "precio": 1038.0
+          },
+          {
+            "anyo": 2026,
+            "trimestre": 3,
+            "presion": 157.0,
+            "oferta": 776,
+            "precio": 1034.0
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "codigo_ine": "01051",
+    "municipio_ine": "Agurain/Salvatierra",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01001",
+    "municipio_ine": "Alegría-Dulantzi",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01002",
+    "municipio_ine": "Amurrio",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01003",
+    "municipio_ine": "Aramaio",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01006",
+    "municipio_ine": "Armiñón",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01037",
+    "municipio_ine": "Arraia-Maeztu",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01008",
+    "municipio_ine": "Arratzua-Ubarrundia",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01004",
+    "municipio_ine": "Artziniega",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01009",
+    "municipio_ine": "Asparrena",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01010",
+    "municipio_ine": "Ayala/Aiara",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01049",
+    "municipio_ine": "Añana",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01013",
+    "municipio_ine": "Barrundia",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01011",
+    "municipio_ine": "Baños de Ebro/Mañueta",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01014",
+    "municipio_ine": "Berantevilla",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01016",
+    "municipio_ine": "Bernedo",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01017",
+    "municipio_ine": "Campezo/Kanpezu",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01021",
+    "municipio_ine": "Elburgo/Burgelu",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01022",
+    "municipio_ine": "Elciego",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01023",
+    "municipio_ine": "Elvillar/Bilar",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01046",
+    "municipio_ine": "Erriberagoitia/Ribera Alta",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01056",
+    "municipio_ine": "Harana/Valle de Arana",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01027",
+    "municipio_ine": "Iruraiz-Gauna",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01901",
+    "municipio_ine": "Iruña Oka/Iruña de Oca",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01019",
+    "municipio_ine": "Kripan",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01020",
+    "municipio_ine": "Kuartango",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01028",
+    "municipio_ine": "Labastida/Bastida",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01030",
+    "municipio_ine": "Lagrán",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01031",
+    "municipio_ine": "Laguardia",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01032",
+    "municipio_ine": "Lanciego/Lantziego",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01902",
+    "municipio_ine": "Lantarón",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01033",
+    "municipio_ine": "Lapuebla de Labarca",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01036",
+    "municipio_ine": "Laudio/Llodio",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01058",
+    "municipio_ine": "Legutio",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01034",
+    "municipio_ine": "Leza",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01039",
+    "municipio_ine": "Moreda de Álava/Moreda Araba",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01041",
+    "municipio_ine": "Navaridas",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01042",
+    "municipio_ine": "Okondo",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01043",
+    "municipio_ine": "Oyón-Oion",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01044",
+    "municipio_ine": "Peñacerrada-Urizaharra",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01047",
+    "municipio_ine": "Ribera Baja/Erriberabeitia",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01052",
+    "municipio_ine": "Samaniego",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01053",
+    "municipio_ine": "San Millán/Donemiliaga",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01054",
+    "municipio_ine": "Urkabustaiz",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01055",
+    "municipio_ine": "Valdegovía/Gaubea",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01057",
+    "municipio_ine": "Villabuena de Álava/Eskuernaga",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01059",
+    "municipio_ine": "Vitoria-Gasteiz",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01060",
+    "municipio_ine": "Yécora/Iekora",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01061",
+    "municipio_ine": "Zalduondo",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01062",
+    "municipio_ine": "Zambrana",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01018",
+    "municipio_ine": "Zigoitia",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "01063",
+    "municipio_ine": "Zuia",
+    "provincia": "Araba/Álava"
+  },
+  {
+    "codigo_ine": "48001",
+    "municipio_ine": "Abadiño",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48002",
+    "municipio_ine": "Abanto y Ciérvana-Abanto Zierbena",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48911",
+    "municipio_ine": "Ajangiz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48912",
+    "municipio_ine": "Alonsotegi",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48003",
+    "municipio_ine": "Amorebieta-Etxano",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48004",
+    "municipio_ine": "Amoroto",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48005",
+    "municipio_ine": "Arakaldo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48006",
+    "municipio_ine": "Arantzazu",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48093",
+    "municipio_ine": "Areatza",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48009",
+    "municipio_ine": "Arrankudiaga-Zollo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48914",
+    "municipio_ine": "Arratzu",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48010",
+    "municipio_ine": "Arrieta",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48011",
+    "municipio_ine": "Arrigorriaga",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48023",
+    "municipio_ine": "Artea",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48008",
+    "municipio_ine": "Artzentales",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48091",
+    "municipio_ine": "Atxondo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48070",
+    "municipio_ine": "Aulesti",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48012",
+    "municipio_ine": "Bakio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48090",
+    "municipio_ine": "Balmaseda",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48013",
+    "municipio_ine": "Barakaldo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48014",
+    "municipio_ine": "Barrika",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48015",
+    "municipio_ine": "Basauri",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48092",
+    "municipio_ine": "Bedia",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48016",
+    "municipio_ine": "Berango",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48017",
+    "municipio_ine": "Bermeo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48018",
+    "municipio_ine": "Berriatua",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48019",
+    "municipio_ine": "Berriz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48020",
+    "municipio_ine": "Bilbao",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48021",
+    "municipio_ine": "Busturia",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48901",
+    "municipio_ine": "Derio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48026",
+    "municipio_ine": "Dima",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48027",
+    "municipio_ine": "Durango",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48028",
+    "municipio_ine": "Ea",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48031",
+    "municipio_ine": "Elantxobe",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48032",
+    "municipio_ine": "Elorrio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48902",
+    "municipio_ine": "Erandio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48033",
+    "municipio_ine": "Ereño",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48034",
+    "municipio_ine": "Ermua",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48079",
+    "municipio_ine": "Errigoiti",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48029",
+    "municipio_ine": "Etxebarri",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48030",
+    "municipio_ine": "Etxebarria",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48906",
+    "municipio_ine": "Forua",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48035",
+    "municipio_ine": "Fruiz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48036",
+    "municipio_ine": "Galdakao",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48037",
+    "municipio_ine": "Galdames",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48038",
+    "municipio_ine": "Gamiz-Fika",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48039",
+    "municipio_ine": "Garai",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48040",
+    "municipio_ine": "Gatika",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48041",
+    "municipio_ine": "Gautegiz Arteaga",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48046",
+    "municipio_ine": "Gernika-Lumo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48044",
+    "municipio_ine": "Getxo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48047",
+    "municipio_ine": "Gizaburuaga",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48042",
+    "municipio_ine": "Gordexola",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48043",
+    "municipio_ine": "Gorliz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48045",
+    "municipio_ine": "Güeñes",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48048",
+    "municipio_ine": "Ibarrangelu",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48094",
+    "municipio_ine": "Igorre",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48049",
+    "municipio_ine": "Ispaster",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48910",
+    "municipio_ine": "Iurreta",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48050",
+    "municipio_ine": "Izurtza",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48022",
+    "municipio_ine": "Karrantza Harana/Valle de Carranza",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48907",
+    "municipio_ine": "Kortezubi",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48051",
+    "municipio_ine": "Lanestosa",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48052",
+    "municipio_ine": "Larrabetzu",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48053",
+    "municipio_ine": "Laukiz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48054",
+    "municipio_ine": "Leioa",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48057",
+    "municipio_ine": "Lekeitio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48055",
+    "municipio_ine": "Lemoa",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48056",
+    "municipio_ine": "Lemoiz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48081",
+    "municipio_ine": "Lezama",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48903",
+    "municipio_ine": "Loiu",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48058",
+    "municipio_ine": "Mallabia",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48060",
+    "municipio_ine": "Markina-Xemein",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48061",
+    "municipio_ine": "Maruri-Jatabe",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48059",
+    "municipio_ine": "Mañaria",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48062",
+    "municipio_ine": "Mendata",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48063",
+    "municipio_ine": "Mendexa",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48064",
+    "municipio_ine": "Meñaka",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48066",
+    "municipio_ine": "Morga",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48068",
+    "municipio_ine": "Mundaka",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48069",
+    "municipio_ine": "Mungia",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48007",
+    "municipio_ine": "Munitibar-Arbatzegi Gerrikaitz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48908",
+    "municipio_ine": "Murueta",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48071",
+    "municipio_ine": "Muskiz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48067",
+    "municipio_ine": "Muxika",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48909",
+    "municipio_ine": "Nabarniz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48073",
+    "municipio_ine": "Ondarroa",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48075",
+    "municipio_ine": "Orozko",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48083",
+    "municipio_ine": "Ortuella",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48072",
+    "municipio_ine": "Otxandio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48077",
+    "municipio_ine": "Plentzia",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48078",
+    "municipio_ine": "Portugalete",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48082",
+    "municipio_ine": "Santurtzi",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48084",
+    "municipio_ine": "Sestao",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48904",
+    "municipio_ine": "Sondika",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48085",
+    "municipio_ine": "Sopela",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48086",
+    "municipio_ine": "Sopuerta",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48076",
+    "municipio_ine": "Sukarrieta",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48087",
+    "municipio_ine": "Trucios-Turtzioz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48088",
+    "municipio_ine": "Ubide",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48065",
+    "municipio_ine": "Ugao-Miraballes",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48089",
+    "municipio_ine": "Urduliz",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48074",
+    "municipio_ine": "Urduña/Orduña",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48916",
+    "municipio_ine": "Usansolo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48080",
+    "municipio_ine": "Valle de Trápaga-Trapagaran",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48095",
+    "municipio_ine": "Zaldibar",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48096",
+    "municipio_ine": "Zalla",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48905",
+    "municipio_ine": "Zamudio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48097",
+    "municipio_ine": "Zaratamo",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48024",
+    "municipio_ine": "Zeanuri",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48025",
+    "municipio_ine": "Zeberio",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48913",
+    "municipio_ine": "Zierbena",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "48915",
+    "municipio_ine": "Ziortza-Bolibar",
+    "provincia": "Bizkaia"
+  },
+  {
+    "codigo_ine": "20001",
+    "municipio_ine": "Abaltzisketa",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20002",
+    "municipio_ine": "Aduna",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20016",
+    "municipio_ine": "Aia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20003",
+    "municipio_ine": "Aizarnazabal",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20004",
+    "municipio_ine": "Albiztur",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20005",
+    "municipio_ine": "Alegia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20006",
+    "municipio_ine": "Alkiza",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20906",
+    "municipio_ine": "Altzaga",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20007",
+    "municipio_ine": "Altzo",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20008",
+    "municipio_ine": "Amezketa",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20009",
+    "municipio_ine": "Andoain",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20010",
+    "municipio_ine": "Anoeta",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20011",
+    "municipio_ine": "Antzuola",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20012",
+    "municipio_ine": "Arama",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20013",
+    "municipio_ine": "Aretxabaleta",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20055",
+    "municipio_ine": "Arrasate/Mondragón",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20014",
+    "municipio_ine": "Asteasu",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20903",
+    "municipio_ine": "Astigarraga",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20015",
+    "municipio_ine": "Ataun",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20017",
+    "municipio_ine": "Azkoitia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20018",
+    "municipio_ine": "Azpeitia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20904",
+    "municipio_ine": "Baliarrain",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20019",
+    "municipio_ine": "Beasain",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20020",
+    "municipio_ine": "Beizama",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20021",
+    "municipio_ine": "Belauntza",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20022",
+    "municipio_ine": "Berastegi",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20074",
+    "municipio_ine": "Bergara",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20023",
+    "municipio_ine": "Berrobi",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20024",
+    "municipio_ine": "Bidania-Goiatz",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20029",
+    "municipio_ine": "Deba",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20069",
+    "municipio_ine": "Donostia/San Sebastián",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20030",
+    "municipio_ine": "Eibar",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20031",
+    "municipio_ine": "Elduain",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20033",
+    "municipio_ine": "Elgeta",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20032",
+    "municipio_ine": "Elgoibar",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20067",
+    "municipio_ine": "Errenteria",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20066",
+    "municipio_ine": "Errezil",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20034",
+    "municipio_ine": "Eskoriatza",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20035",
+    "municipio_ine": "Ezkio-Itsaso",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20038",
+    "municipio_ine": "Gabiria",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20037",
+    "municipio_ine": "Gaintza",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20907",
+    "municipio_ine": "Gaztelu",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20039",
+    "municipio_ine": "Getaria",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20040",
+    "municipio_ine": "Hernani",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20041",
+    "municipio_ine": "Hernialde",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20036",
+    "municipio_ine": "Hondarribia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20042",
+    "municipio_ine": "Ibarra",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20043",
+    "municipio_ine": "Idiazabal",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20044",
+    "municipio_ine": "Ikaztegieta",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20045",
+    "municipio_ine": "Irun",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20046",
+    "municipio_ine": "Irura",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20047",
+    "municipio_ine": "Itsasondo",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20048",
+    "municipio_ine": "Larraul",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20902",
+    "municipio_ine": "Lasarte-Oria",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20049",
+    "municipio_ine": "Lazkao",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20050",
+    "municipio_ine": "Leaburu",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20051",
+    "municipio_ine": "Legazpi",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20052",
+    "municipio_ine": "Legorreta",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20068",
+    "municipio_ine": "Leintz-Gatzaga",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20053",
+    "municipio_ine": "Lezo",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20054",
+    "municipio_ine": "Lizartza",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20901",
+    "municipio_ine": "Mendaro",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20057",
+    "municipio_ine": "Mutiloa",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20056",
+    "municipio_ine": "Mutriku",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20063",
+    "municipio_ine": "Oiartzun",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20058",
+    "municipio_ine": "Olaberria",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20076",
+    "municipio_ine": "Ordizia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20905",
+    "municipio_ine": "Orendain",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20060",
+    "municipio_ine": "Orexa",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20061",
+    "municipio_ine": "Orio",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20062",
+    "municipio_ine": "Ormaiztegi",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20059",
+    "municipio_ine": "Oñati",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20064",
+    "municipio_ine": "Pasaia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20070",
+    "municipio_ine": "Segura",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20065",
+    "municipio_ine": "Soraluze-Placencia de las Armas",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20071",
+    "municipio_ine": "Tolosa",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20072",
+    "municipio_ine": "Urnieta",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20077",
+    "municipio_ine": "Urretxu",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20073",
+    "municipio_ine": "Usurbil",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20075",
+    "municipio_ine": "Villabona",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20078",
+    "municipio_ine": "Zaldibia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20079",
+    "municipio_ine": "Zarautz",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20025",
+    "municipio_ine": "Zegama",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20026",
+    "municipio_ine": "Zerain",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20027",
+    "municipio_ine": "Zestoa",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20028",
+    "municipio_ine": "Zizurkil",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20081",
+    "municipio_ine": "Zumaia",
+    "provincia": "Gipuzkoa"
+  },
+  {
+    "codigo_ine": "20080",
+    "municipio_ine": "Zumarraga",
+    "provincia": "Gipuzkoa"
+  }
+]

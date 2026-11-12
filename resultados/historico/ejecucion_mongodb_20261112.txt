@@ -1,0 +1,460 @@
+
+======================================
+AUTOMATIZACION MONGODB
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+======================================
+
+=== VERIFICACION: ANTES DE IMPORTAR ===
+municipios: 252 / 252
+anuncios: 2952 / 2952
+mercado_alquiler: 3 / 3
+salarios: 120 / 120
+economia_juvenil: 148 / 148
+Todos los recuentos son correctos.
+Validacion inicial: 252 municipios correctos.
+
+>>> Ejecutando: validar_municipios.py
+=== VALIDACION MUNICIPIOS ===
+Total documentos: 252
+IDs unicos: 252
+IDs duplicados: 0
+Codigos INE invalidos: 0
+Valores negativos: 0
+Esfuerzos incoherentes: 0
+
+=== FIN VALIDACION ===
+>>> OK: validar_municipios.py (0.05 segundos)
+
+>>> Ejecutando: importar_municipios.py
+
+=== IMPORTACION DE MUNICIPIOS ===
+JSON validado: 252 municipios.
+Conexión correcta con MongoDB.
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+
+=== RESULTADO ===
+Procesados: 252
+Insertados: 0
+Actualizados: 0
+Sin cambios: 252
+Total en colección: 252
+
+Importación finalizada correctamente.
+Conexión cerrada.
+>>> OK: importar_municipios.py (0.81 segundos)
+
+>>> Ejecutando: importar_anuncios.py
+
+=== IMPORTACION DE ANUNCIOS ===
+Anuncios validados: 2952
+Municipios diferentes: 12
+Conexión correcta con MongoDB.
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+
+=== RESULTADO ===
+Procesados: 2952
+Insertados: 0
+Actualizados: 0
+Sin cambios: 2952
+Total en MongoDB: 2952
+
+Importación finalizada correctamente.
+Conexión cerrada.
+>>> OK: importar_anuncios.py (1.32 segundos)
+
+>>> Ejecutando: importar_alquiler.py
+
+=== IMPORTACION MERCADO DE ALQUILER ===
+Provincias validadas: 3
+Registros trimestrales: 33
+Conexión correcta con MongoDB.
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+
+=== RESULTADO ===
+Procesados: 3
+Insertados: 0
+Actualizados: 0
+Sin cambios: 3
+Total en MongoDB: 3
+
+Importación finalizada correctamente.
+Conexión cerrada.
+>>> OK: importar_alquiler.py (0.76 segundos)
+
+>>> Ejecutando: importar_salarios.py
+
+=== IMPORTACION SALARIOS JUVENILES ===
+Registros validados: 120
+Dimensiones: edad, sexo, territorio
+Conexión correcta con MongoDB.
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+
+=== RESULTADO ===
+Procesados: 120
+Insertados: 0
+Actualizados: 0
+Sin cambios: 120
+Total en MongoDB: 120
+
+Importación finalizada correctamente.
+Conexión cerrada.
+>>> OK: importar_salarios.py (0.75 segundos)
+
+>>> Ejecutando: importar_economia.py
+
+=== IMPORTACION ECONOMIA JUVENIL ===
+Registros validados: 148
+Indicadores: disponibilidad_superior_600, renta_personal_anual_25_29
+Conexión correcta con MongoDB.
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+
+=== RESULTADO ===
+Procesados: 148
+Insertados: 0
+Actualizados: 0
+Sin cambios: 148
+Total en MongoDB: 148
+
+Importación finalizada correctamente.
+Conexión cerrada.
+>>> OK: importar_economia.py (0.76 segundos)
+
+=== VERIFICACION: DESPUES DE IMPORTAR ===
+municipios: 252 / 252
+anuncios: 2952 / 2952
+mercado_alquiler: 3 / 3
+salarios: 120 / 120
+economia_juvenil: 148 / 148
+Todos los recuentos son correctos.
+
+>>> Ejecutando: revisar_colecciones.py
+Conexión correcta con MongoDB.
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+Base de datos: EUSKADI_VIVIENDA_BIGDATA_TEST
+
+=======================================================
+COLECCION: municipios
+=======================================================
+Total documentos: 252
+
+CAMPOS Y COBERTURA:
+  _id: 252/252 (100.0%)
+  indicadores: 252/252 (100.0%)
+  indicadores.anos_salario_compra_ine: 252/252 (100.0%)
+  indicadores.anos_salario_compra_registradores: 252/252 (100.0%)
+  indicadores.anyo_alquiler_referencia: 252/252 (100.0%)
+  indicadores.anyo_compra_referencia: 252/252 (100.0%)
+  indicadores.anyo_salario_referencia: 252/252 (100.0%)
+  indicadores.esfuerzo_alquiler_pct: 252/252 (100.0%)
+  indicadores.eustat_alquiler_medio_2024: 252/252 (100.0%)
+  indicadores.ine_precio_medio_2025: 252/252 (100.0%)
+  indicadores.registradores_precio_medio_2025: 252/252 (100.0%)
+  indicadores.salario_neto_mensual: 252/252 (100.0%)
+  indicadores.supera_30_pct: 252/252 (100.0%)
+  indicadores.tiene_alquiler: 252/252 (100.0%)
+  indicadores.tiene_compra: 252/252 (100.0%)
+  nombre: 252/252 (100.0%)
+  provincia: 252/252 (100.0%)
+  territorio_id: 252/252 (100.0%)
+  vivienda: 252/252 (100.0%)
+  vivienda.alquiler_mediana: 252/252 (100.0%)
+  vivienda.alquiler_p25: 252/252 (100.0%)
+  vivienda.alquiler_p75: 252/252 (100.0%)
+  vivienda.emal_alquiler_medio_2025: 252/252 (100.0%)
+  vivienda.emal_fecha_referencia: 252/252 (100.0%)
+  vivienda.eustat_alquiler_medio_2024: 252/252 (100.0%)
+  vivienda.ine_precio_m2_2025: 252/252 (100.0%)
+  vivienda.ine_precio_medio_2025: 252/252 (100.0%)
+  vivienda.municipio_eustat: 252/252 (100.0%)
+  vivienda.registradores_precio_m2_2025: 252/252 (100.0%)
+  vivienda.registradores_precio_medio_2025: 252/252 (100.0%)
+  vivienda.renta_m2_media: 252/252 (100.0%)
+  vivienda.renta_m2_mediana: 252/252 (100.0%)
+  vivienda.renta_m2_p25: 252/252 (100.0%)
+  vivienda.renta_m2_p75: 252/252 (100.0%)
+  vivienda.superficie_media: 252/252 (100.0%)
+  vivienda.superficie_mediana: 252/252 (100.0%)
+  vivienda.superficie_p25: 252/252 (100.0%)
+  vivienda.superficie_p75: 252/252 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  indicadores: dict
+  nombre: str
+  provincia: str
+  territorio_id: str
+  vivienda: dict
+
+ANOS DETECTADOS:
+[2024, 2025]
+
+REFERENCIAS TERRITORIALES (muestra):
+  provincia: Araba/Álava
+  provincia: Bizkaia
+  provincia: Gipuzkoa
+  territorio_id: 01
+  territorio_id: 20
+  territorio_id: 48
+
+=======================================================
+COLECCION: anuncios
+=======================================================
+Total documentos: 2952
+
+CAMPOS Y COBERTURA:
+  _id: 2952/2952 (100.0%)
+  archivo_origen: 2952/2952 (100.0%)
+  calidad: 2952/2952 (100.0%)
+  calidad.grupo_duplicado: 2952/2952 (100.0%)
+  calidad.posible_duplicado: 2952/2952 (100.0%)
+  calidad.posible_duplicado_ampliado: 2952/2952 (100.0%)
+  calidad.precio_no_valido: 2952/2952 (100.0%)
+  calidad.revision_tipo_inmueble: 2952/2952 (100.0%)
+  calidad.superficie_desconocida: 2952/2952 (100.0%)
+  calidad.superficie_no_valida: 2952/2952 (100.0%)
+  caracteristicas: 2952/2952 (100.0%)
+  caracteristicas.banos: 2952/2952 (100.0%)
+  caracteristicas.habitaciones: 2952/2952 (100.0%)
+  caracteristicas.m2: 2952/2952 (100.0%)
+  descripcion: 2952/2952 (100.0%)
+  fuente: 2952/2952 (100.0%)
+  id_portal: 2952/2952 (100.0%)
+  limpieza: 2952/2952 (100.0%)
+  limpieza.descripcion_disponible: 2952/2952 (100.0%)
+  limpieza.grupo_revision: 2952/2952 (100.0%)
+  limpieza.municipio_id_normalizado: 2952/2952 (100.0%)
+  limpieza.municipio_normalizado: 2952/2952 (100.0%)
+  limpieza.precio_m2: 2952/2952 (100.0%)
+  limpieza.revisar_duplicado: 2952/2952 (100.0%)
+  limpieza.superficie_disponible: 2952/2952 (100.0%)
+  limpieza.zona_normalizada: 2952/2952 (100.0%)
+  municipio: 2952/2952 (100.0%)
+  municipio_id: 2952/2952 (100.0%)
+  municipio_original: 2952/2952 (100.0%)
+  operacion: 2952/2952 (100.0%)
+  precio: 2952/2952 (100.0%)
+  ubicacion: 2952/2952 (100.0%)
+  ubicacion.coordinates: 2952/2952 (100.0%)
+  ubicacion.type: 2952/2952 (100.0%)
+  zona: 2952/2952 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  archivo_origen: str
+  calidad: dict
+  caracteristicas: dict
+  descripcion: NoneType, str
+  fuente: str
+  id_portal: str
+  limpieza: dict
+  municipio: str
+  municipio_id: str
+  municipio_original: str
+  operacion: str
+  precio: int
+  ubicacion: dict
+  zona: NoneType, str
+
+ANOS DETECTADOS:
+Sin anos detectados
+
+REFERENCIAS TERRITORIALES (muestra):
+  municipio_id: 01059
+  municipio_id: 20045
+  municipio_id: 20067
+  municipio_id: 20069
+  municipio_id: 48013
+  municipio_id: 48015
+  municipio_id: 48020
+  municipio_id: 48027
+  municipio_id: 48044
+  municipio_id: 48054
+  municipio_id: 48078
+  municipio_id: 48082
+
+=======================================================
+COLECCION: mercado_alquiler
+=======================================================
+Total documentos: 3
+
+CAMPOS Y COBERTURA:
+  _id: 3/3 (100.0%)
+  fuente: 3/3 (100.0%)
+  nombre: 3/3 (100.0%)
+  serie: 3/3 (100.0%)
+  serie.anyo: 3/3 (100.0%)
+  serie.oferta: 3/3 (100.0%)
+  serie.precio: 3/3 (100.0%)
+  serie.presion: 3/3 (100.0%)
+  serie.trimestre: 3/3 (100.0%)
+  territorio_id: 3/3 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  fuente: str
+  nombre: str
+  serie: list
+  territorio_id: str
+
+ANOS DETECTADOS:
+[2024, 2025, 2026]
+
+REFERENCIAS TERRITORIALES (muestra):
+  territorio_id: 01
+  territorio_id: 20
+  territorio_id: 48
+
+=======================================================
+COLECCION: salarios
+=======================================================
+Total documentos: 120
+
+CAMPOS Y COBERTURA:
+  _id: 120/120 (100.0%)
+  anyo: 120/120 (100.0%)
+  categoria: 120/120 (100.0%)
+  dimension: 120/120 (100.0%)
+  salario_neto_mensual: 120/120 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  anyo: int
+  categoria: str
+  dimension: str
+  salario_neto_mensual: float
+
+ANOS DETECTADOS:
+[2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024]
+
+REFERENCIAS TERRITORIALES (muestra):
+
+=======================================================
+COLECCION: economia_juvenil
+=======================================================
+Total documentos: 148
+
+CAMPOS Y COBERTURA:
+  _id: 148/148 (100.0%)
+  anyo: 148/148 (100.0%)
+  categoria: 148/148 (100.0%)
+  indicador: 148/148 (100.0%)
+  unidad: 148/148 (100.0%)
+  valor: 148/148 (100.0%)
+
+TIPOS DE CAMPOS PRINCIPALES:
+  _id: str
+  anyo: int
+  categoria: str
+  indicador: str
+  unidad: str
+  valor: float
+
+ANOS DETECTADOS:
+[2000, 2001, 2003, 2004, 2006, 2008, 2009, 2011, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2026]
+
+REFERENCIAS TERRITORIALES (muestra):
+
+=== RELACION ANUNCIOS - MUNICIPIOS ===
+Total anuncios: 2952
+Referencias validas: 2952
+Sin municipio_id: 0
+Referencias inexistentes: 0
+Conexión cerrada.
+>>> OK: revisar_colecciones.py (0.77 segundos)
+
+>>> Ejecutando: limpiar_datos.py
+=== LIMPIEZA RA1 ===
+Base: EUSKADI_VIVIENDA_BIGDATA_TEST
+Anuncios iniciales: 2952
+1. Nulos - modificados: 0
+2. Duplicados - modificados: 0
+3. Formatos - modificados: 0
+4. Precio/m2 - modificados: 0
+
+=== VERIFICACION ===
+Anuncios finales: 2952
+Zonas normalizadas: 168
+Duplicados para revisar: 70
+Precios/m2 calculados: 2906
+Precios/m2 no disponibles: 46
+
+Ejemplo: {'caracteristicas': {'m2': 55.0}, 'municipio': 'Irun', 'precio': 150000, 'limpieza': {'zona_normalizada': 'Avenida de Ibarrola, 1', 'descripcion_disponible': True, 'superficie_disponible': True, 'revisar_duplicado': False, 'grupo_revision': None, 'municipio_id_normalizado': '20045', 'municipio_normalizado': 'Irun', 'precio_m2': 2727.27}}
+>>> OK: limpiar_datos.py (0.78 segundos)
+
+Anuncios con campo limpieza: 2952
+
+=== VERIFICACION: DESPUES DE LIMPIEZA ===
+municipios: 252 / 252
+anuncios: 2952 / 2952
+mercado_alquiler: 3 / 3
+salarios: 120 / 120
+economia_juvenil: 148 / 148
+Todos los recuentos son correctos.
+
+>>> Ejecutando: consultas_ra3.py
+
+=== CONSULTA 1: VIVIENDAS EN VENTA <= 200.000 € ===
+Total de anuncios encontrados: 318
+{'caracteristicas': {'m2': 25.0}, 'municipio': 'Leioa', 'precio': 42500}
+{'caracteristicas': {'m2': 52.0}, 'municipio': 'Basauri', 'precio': 49900}
+{'caracteristicas': {'m2': 52.0}, 'municipio': 'Bilbao', 'precio': 49900}
+{'caracteristicas': {'m2': 68.0}, 'municipio': 'Vitoria-Gasteiz', 'precio': 51200}
+{'caracteristicas': {'m2': 5.0}, 'municipio': 'Vitoria-Gasteiz', 'precio': 53630}
+{'caracteristicas': {'m2': 45.0}, 'municipio': 'Bilbao', 'precio': 65141}
+{'caracteristicas': {'m2': 52.0}, 'municipio': 'Basauri', 'precio': 65500}
+{'caracteristicas': {'m2': 26.0}, 'municipio': 'Bilbao', 'precio': 67000}
+{'caracteristicas': {'m2': 65.0}, 'municipio': 'Vitoria-Gasteiz', 'precio': 68000}
+{'caracteristicas': {'m2': 41.0}, 'municipio': 'Bilbao', 'precio': 69900}
+
+=== CONSULTA 2: VIVIENDAS DE 80 M2 Y 3 HABITACIONES ===
+Total de anuncios encontrados: 1659
+{'caracteristicas': {'habitaciones': 3, 'm2': 84.0}, 'municipio': 'Bilbao', 'precio': 84999}
+{'caracteristicas': {'habitaciones': 4, 'm2': 100.0}, 'municipio': 'Getxo', 'precio': 100000}
+{'caracteristicas': {'habitaciones': 5, 'm2': 92.0}, 'municipio': 'Bilbao', 'precio': 123000}
+{'caracteristicas': {'habitaciones': 3, 'm2': 80.0}, 'municipio': 'Barakaldo', 'precio': 124900}
+{'caracteristicas': {'habitaciones': 5, 'm2': 231.0}, 'municipio': 'Getxo', 'precio': 150000}
+{'caracteristicas': {'habitaciones': 3, 'm2': 89.0}, 'municipio': 'Barakaldo', 'precio': 157000}
+{'caracteristicas': {'habitaciones': 4, 'm2': 173.0}, 'municipio': 'Bilbao', 'precio': 161900}
+{'caracteristicas': {'habitaciones': 3, 'm2': 99.0}, 'municipio': 'Bilbao', 'precio': 161900}
+{'caracteristicas': {'habitaciones': 3, 'm2': 87.0}, 'municipio': 'Barakaldo', 'precio': 165000}
+{'caracteristicas': {'habitaciones': 3, 'm2': 80.0}, 'municipio': 'Barakaldo', 'precio': 175000}
+
+=== CONSULTA 3: VIVIENDAS EN BILBAO O GETXO ===
+Total de anuncios encontrados: 212
+{'caracteristicas': {'m2': 231.0}, 'municipio': 'Getxo', 'precio': 150000}
+{'caracteristicas': {'m2': 180.0}, 'municipio': 'Bilbao', 'precio': 155000}
+{'caracteristicas': {'m2': 87.0}, 'municipio': 'Bilbao', 'precio': 160000}
+{'caracteristicas': {'m2': 255.0}, 'municipio': 'Bilbao', 'precio': 160000}
+{'caracteristicas': {'m2': 87.0}, 'municipio': 'Bilbao', 'precio': 160000}
+{'caracteristicas': {'m2': 173.0}, 'municipio': 'Bilbao', 'precio': 161900}
+{'caracteristicas': {'m2': 99.0}, 'municipio': 'Bilbao', 'precio': 161900}
+{'caracteristicas': {'m2': 83.0}, 'municipio': 'Bilbao', 'precio': 177000}
+{'caracteristicas': {'m2': 77.0}, 'municipio': 'Bilbao', 'precio': 180000}
+{'caracteristicas': {'m2': 80.0}, 'municipio': 'Bilbao', 'precio': 180000}
+
+=== CONSULTA 4: PRESION ALQUILER 2026 > 150 ===
+Territorios encontrados: 3
+{'nombre': 'Gipuzkoa', 'territorio_id': '20', 'serie': [{'anyo': 2026, 'trimestre': 1, 'presion': 155.0, 'oferta': 2669, 'precio': 1494.0}]}
+{'nombre': 'Bizkaia', 'territorio_id': '48', 'serie': [{'anyo': 2026, 'trimestre': 1, 'presion': 191.0, 'oferta': 4239, 'precio': 1311.0}]}
+{'nombre': 'Araba/Álava', 'territorio_id': '01', 'serie': [{'anyo': 2026, 'trimestre': 3, 'presion': 157.0, 'oferta': 776, 'precio': 1034.0}]}
+
+=== CONSULTA 5: INDICADORES JUVENILES 2024 Y 2026 ===
+Indicadores encontrados: 21
+{'anyo': 2024, 'categoria': 'Álava', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 36.0}
+{'anyo': 2024, 'categoria': 'Hombres', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 38.3}
+{'anyo': 2024, 'categoria': 'Euskadi', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 36.9}
+{'anyo': 2024, 'categoria': 'Mujeres', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 35.5}
+{'anyo': 2024, 'categoria': 'Gipuzkoa', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 37.3}
+{'anyo': 2024, 'categoria': 'Bizkaia', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 34.7}
+{'anyo': 2024, 'categoria': '20-24 años', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 33.1}
+{'anyo': 2024, 'categoria': '15-19 años', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 3.9}
+{'anyo': 2024, 'categoria': '25-29 años', 'indicador': 'disponibilidad_superior_600', 'unidad': 'porcentaje', 'valor': 76.8}
+{'anyo': 2024, 'categoria': 'Euskadi', 'indicador': 'renta_personal_anual_25_29', 'unidad': 'euros_anuales', 'valor': 20109.0}
+>>> OK: consultas_ra3.py (0.74 segundos)
+
+AUTOMATIZACION MONGODB FINALIZADA
+
+======================================
+FASE MONGODB FINALIZADA
+Tiempo total: 6.95 segundos
+======================================

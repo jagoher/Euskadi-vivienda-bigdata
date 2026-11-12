@@ -1,0 +1,25 @@
+# EUSKADI_VIVIENDA_BIGDATA
+# Dependencias directas para instalar con pip en un entorno virtual (venv).
+# Extraccion y scraping
+requests
+beautifulsoup4
+
+# Procesamiento y exportacion de datos
+pandas
+openpyxl
+pdfplumber
+
+# MongoDB y configuracion
+pymongo
+python-dotenv
+
+# Kafka y HDFS (scripts de integracion)
+confluent-kafka
+hdfs
+
+# Graficos y analisis
+matplotlib
+seaborn
+
+# Pruebas
+pytest

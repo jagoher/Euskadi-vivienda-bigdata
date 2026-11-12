@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración privada
+.env
+.env.*
+!.env.example
+
+# Datos originales y procesados
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+# Copias de seguridad MongoDB
+backup_mongodb/
+
+# Archivos temporales de exportacion
+*.bak
+*.dump
+
+# Archivos locales de trabajo
+dirdata/hdfs_verificacion/
+data/tmp_kafka_hdfs/
+
+# Archivos temporales de HDFS y Kafka
+data/hdfs_verificacion/
+data/tmp_kafka_hdfs/
+
+# Archivos temporales de HDFS y Kafka
+data/hdfs_verificacion/
+data/tmp_kafka_hdfs/
+
+# Videos de evidencias (archivos grandes)
+videos/

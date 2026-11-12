@@ -1,0 +1,722 @@
+[
+  {
+    "anyo": 2010,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1319.0
+  },
+  {
+    "anyo": 2010,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1642.0
+  },
+  {
+    "anyo": 2010,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1566.0
+  },
+  {
+    "anyo": 2010,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1318.0
+  },
+  {
+    "anyo": 2010,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1444.0
+  },
+  {
+    "anyo": 2010,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1424.0
+  },
+  {
+    "anyo": 2010,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1401.0
+  },
+  {
+    "anyo": 2010,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1409.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1281.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1585.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1571.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1269.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1430.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1411.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1388.0
+  },
+  {
+    "anyo": 2011,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1395.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1247.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1557.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1562.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1250.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1409.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1390.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1402.0
+  },
+  {
+    "anyo": 2012,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1375.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1215.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1513.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1467.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1290.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1383.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1365.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1343.0
+  },
+  {
+    "anyo": 2013,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1350.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1206.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1542.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1505.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1266.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1381.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1372.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1356.0
+  },
+  {
+    "anyo": 2014,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1374.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1164.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1472.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1470.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1213.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1334.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1325.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1354.0
+  },
+  {
+    "anyo": 2015,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1327.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1169.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1441.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1447.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1210.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1356.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1347.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1332.0
+  },
+  {
+    "anyo": 2016,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1350.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1128.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1394.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1407.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1185.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1311.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1302.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1287.0
+  },
+  {
+    "anyo": 2017,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1304.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1148.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1433.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1419.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1204.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1344.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1335.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1345.0
+  },
+  {
+    "anyo": 2018,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1282.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1155.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1464.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1391.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1209.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1344.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1335.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1346.0
+  },
+  {
+    "anyo": 2019,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1282.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1153.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1443.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1421.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1270.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1343.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1334.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1344.0
+  },
+  {
+    "anyo": 2020,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1281.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1215.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1510.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1426.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1273.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1415.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1389.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1381.0
+  },
+  {
+    "anyo": 2021,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1323.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1275.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1636.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1494.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1351.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1486.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1459.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1450.0
+  },
+  {
+    "anyo": 2022,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1389.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1340.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1754.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1584.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1407.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1554.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1532.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1521.0
+  },
+  {
+    "anyo": 2023,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1449.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "edad",
+    "categoria": "18-29 años",
+    "salario_neto_mensual": 1381.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "edad",
+    "categoria": "30-34 años",
+    "salario_neto_mensual": 1774.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "sexo",
+    "categoria": "Hombres",
+    "salario_neto_mensual": 1617.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "sexo",
+    "categoria": "Mujeres",
+    "salario_neto_mensual": 1438.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "territorio",
+    "categoria": "Bizkaia",
+    "salario_neto_mensual": 1585.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "territorio",
+    "categoria": "Euskadi",
+    "salario_neto_mensual": 1564.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "territorio",
+    "categoria": "Gipuzkoa",
+    "salario_neto_mensual": 1555.0
+  },
+  {
+    "anyo": 2024,
+    "dimension": "territorio",
+    "categoria": "Álava",
+    "salario_neto_mensual": 1487.0
+  }
+]
